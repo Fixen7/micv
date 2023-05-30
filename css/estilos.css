@@ -1,0 +1,106 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+    
+}
+.sech {
+    padding: 80px;
+    background-image: url("https://cdn.pixabay.com/photo/2016/03/26/13/09/workspace-1280538_1280.jpg");
+    background-size: cover;
+    scroll-behavior: auto;
+    background-attachment: fixed;
+} 
+#a12 {
+    text-align: center;
+    text-decoration: none;
+    padding: auto;
+    border: solid #416e8a 10px;
+    margin: 10px;
+    background-color: #416e8a;
+    text-transform: uppercase;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    display:inline-flex ;
+
+}
+#a11, #a22, #a33, #a44  {
+    text-align: center;
+    text-decoration: none;
+    padding: auto;
+    border: solid #416e8a 10px;
+    margin: 10px;
+    background-color: #416e8a;
+    text-transform: uppercase;
+    font-size: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    display:inline-flex ;
+
+}   
+nav {
+    text-align: center;
+    
+}
+.s1 {
+    margin: 23px ;  
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #528eb3;
+    margin-top: 0;
+    padding-bottom: 0;
+    color:white;
+    font-size: 40px;
+}
+h2 {
+    text-transform: uppercase ;
+    background-color: #416e8a ;
+    color: white;
+    
+}
+footer {
+    text-decoration: none;
+    background-color: #2e7c82;
+    font-size: 40px;
+    text-align: center;
+    word-spacing: 10px;
+    color: white;
+    text-decoration-color: white
+}
+.s1, .s2 {
+    font-size: 20px;
+}
+
+#a1, #a11, #a22, #a33, #a12 {
+outline: none;
+text-decoration: none;
+padding: 2px 1px 0;
+}
+
+#a1:link, #a11:link, #a22:link, #a33:link, #a44:link, #a12:link {
+color: #ffffff;
+}
+
+#a1:visited, #a11:visited, #a22:visited, #a33:visited, #a44:visited, #a12:visited {
+color: #ffffff;
+}
+
+#a1:focus {
+border-bottom: 1px solid;
+
+}
+
+#a1:active {
+background: #ffffff;
+color: #ffffff;
+}
+.Desc {
+  text-align: center;
+  font-size: 30px;  
+  border: solid 3px skyblue;
+  margin: 15px 20%;
+  font-weight: 500;
+  line-height: 60px;
+}
